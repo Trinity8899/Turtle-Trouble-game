@@ -1,5 +1,7 @@
 Turtle Trouble – Game Rules
 
+This is a 2D game developed with Unity as part of a personal learning project and job application portfolio.
+
 🐢 Goal:  
 Control the turtle, avoid the fish heads, and collect as many points as possible by eating algae, seaweed, snails, and other underwater treats!
 
