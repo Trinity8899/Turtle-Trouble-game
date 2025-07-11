@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Exclude irrelevant files from language statistics
+*.csproj linguist-vendored
+*.sln linguist-vendored
+/Library/** linguist-vendored
+/Packages/** linguist-vendored
+/ProjectSettings/** linguist-vendored
